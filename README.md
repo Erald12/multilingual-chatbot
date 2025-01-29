@@ -16,6 +16,13 @@ A simple and interactive multilingual chatbot application built using Python and
 - An active internet connection
 - A valid API key for NeurochainAI
 
+## Featured Case Study
+
+Our multilingual chatbot has been featured in a case study by NeurochainAI! 🎉  
+Read more about how we built it using NeurochainAI's infrastructure:  
+[📖 Case Study: How a Multilingual Chatbot is Redefining Cross-Language Communication](https://www.neurochain.ai/blog/case-study-how-a-multilingual-chatbot-is-redefining-cross-language-communication)
+
+
 ## Installation
 
 1. **Clone the Repository**:
